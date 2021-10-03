@@ -2,4 +2,4 @@
 
 Передалал реализацию так, что бы пользователь загружал файлы в директорию с исполняемым скриптом, запускал скрипт и данные передавались на диск:
 
-https://github.com/mikhailBrann/HTTP_REQUEST_task_2/blob/e77b1905cd2ddacb31897b391382fe4c1e85e8e9/main.py#L25-L48
+https://github.com/mikhailBrann/HTTP_REQUEST_task_2/blob/71d59869de1d7a3e688a9cfc1ff53402de0e5484/main.py#L25-L48
